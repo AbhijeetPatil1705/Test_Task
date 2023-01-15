@@ -1,0 +1,87 @@
+body{
+  background-color: aliceblue;
+}
+.navbarBtn{
+ margin: 0 20px 0 20px;
+}
+mat-icon{
+ padding: 7px 2px 0 0;
+}
+.mailIcon{
+  font-size: 19px;
+  margin-top: -10px;
+}
+.search{
+  margin: 1px;
+  position: absolute;
+  right: 100px;
+}
+.inviteBtn{
+  margin-left: 12px;
+  padding: 3px 25px 3px 25px;
+}
+.italic{
+  font-style:italic
+}
+.accountCircle{
+  color: rgb(93, 139, 93);
+}
+/* mat-sidenav-container{
+  height: calc(205vh - 115vh);
+}
+mat-sidenav{
+  width: 200px;
+  background-color: aqua; 
+} */
+
+.example-card1{
+  margin: 20px 12px 50px 100px;
+  height: 400px;
+  width: 300px;
+  padding: 20px;
+}
+.example-card2{
+  margin-top: 20px;
+  width: 1200px;
+  height: 400px;
+  padding: 20px;
+}
+.cards{
+  display: flex;
+  flex-wrap: nowrap;
+}
+.header{
+  background-color: rgb(220, 226, 211);
+  position: absolute;
+  left: 0;
+  top:0
+}
+mat-card-actions{
+  margin-top: 50px;
+}
+.innerCard{
+  height: 300px;
+}
+.innerHeader{
+  background-color: white;
+}
+table th{
+  padding-left: 20px;
+  font-size: 14px;
+  padding: 5px;
+}
+table td{
+  padding-left: 200px;
+  font-size: 16px;
+}
+img{
+  border-radius: 10px;
+}
+.imgName{
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 5px;
+}
+.member{
+  font-weight: 500;
+}
